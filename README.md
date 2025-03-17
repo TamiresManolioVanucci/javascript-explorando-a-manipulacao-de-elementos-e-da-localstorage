@@ -1,3 +1,5 @@
+Aprendemos a selecionar elementos HTML com `querySelector`, manipular classes com `classList.toggle`, criar ouvintes de eventos com `addEventListener`, e prevenir comportamentos padrão com `preventDefault`. Usamos `localStorage` para persistência, criamos elementos com `createElement`, e encapsulamos lógicas em funções.
+
 ![](thumbnail.png)
 
 # Fokus
